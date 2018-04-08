@@ -13,8 +13,11 @@ dependencies:
 - missingno=0.3.7
 - rise=5.2.0
 #- appnope=0.1.0
+- arrow-cpp=0.9.0
+- boost-cpp=1.66.0
 - bleach=2.1.2
 - bokeh=0.12.14
+- bqplot=0.10.5
 - ca-certificates=2017.08.26
 #- cctools=895
 - certifi=2018.1.18
@@ -24,9 +27,13 @@ dependencies:
 #- clangxx_osx-64=4.0.1
 #- compiler-rt=4.0.1
 #- cycler=0.10.0
+- dask=0.17.2
 - decorator=4.2.1
+- dill=0.2.7.1
+- distributed=1.21.5
 - entrypoints=0.2.3
 - freetype=2.8
+- futures=3.1.1
 #- h5py=2.7.1
 #- hdf5=1.10.1
 - html5lib=1.0.1
@@ -73,11 +80,13 @@ dependencies:
 - pandocfilters=1.4.2
 - parso=0.1.1
 - patsy=0.5.0
+- parquet-cpp=1.4.0
 - pexpect=4.4.0
 - pickleshare=0.7.4
 - pip=9.0.1
 - prompt_toolkit=1.0.15
 - ptyprocess=0.5.2
+- pyarrow=0.9.0
 - pygments=2.2.0
 - pymc3=3.3
 - pyparsing=2.2.0
@@ -102,6 +111,7 @@ dependencies:
 - tornado=4.5.3
 - tqdm=4.19.5
 - traitlets=4.3.2
+- traittypes=0.0.6
 - wcwidth=0.1.7
 - webencodings=0.5.1
 - wheel=0.30.0
