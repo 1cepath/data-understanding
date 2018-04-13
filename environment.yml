@@ -24,7 +24,7 @@ dependencies:
 - python-oauth2=1.0.1
 - sqlalchemy=1.2.6
 - jupyterlab=0.31.12
-- jupyterlab-launcher=0.10.5
+#- jupyterlab-launcher=0.10.5
 # end of jupyterhub pacakges
 - boost-cpp=1.66.0
 - bleach=2.1.2
